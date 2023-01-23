@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1672759029 source:c:\dev\tubes structure data\terakhir\hospital\main.cpp
+	<iostream>
+	"dokter.h"
+	"perawat.h"
+
+1672759017 source:c:\dev\tubes structure data\terakhir\hospital\dokter.cpp
+	"dokter.h"
+
+1672199537 c:\dev\tubes structure data\terakhir\hospital\dokter.h
+	<iostream>
+	"perawat.h"
+
+1672288120 c:\dev\tubes structure data\terakhir\hospital\perawat.h
+	<iostream>
+
+1672199586 source:c:\dev\tubes structure data\terakhir\hospital\perawat.cpp
+	"perawat.h"
+
+1672759017 source:c:\dev\tubes structure data\terakhir\std_1303213026_1303213107\dokter.cpp
+	"dokter.h"
+
+1672199537 c:\dev\tubes structure data\terakhir\std_1303213026_1303213107\dokter.h
+	<iostream>
+	"perawat.h"
+
+1672288120 c:\dev\tubes structure data\terakhir\std_1303213026_1303213107\perawat.h
+	<iostream>
+
+1673237147 source:c:\dev\tubes structure data\terakhir\std_1303213026_1303213107\main.cpp
+	<iostream>
+	"dokter.h"
+	"perawat.h"
+
+1672199586 source:c:\dev\tubes structure data\terakhir\std_1303213026_1303213107\perawat.cpp
+	"perawat.h"
+
